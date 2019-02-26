@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="password" unicode="&#58881;" d="M819.2 481.28v102.4c0 168.96-138.24 307.2-307.2 307.2s-307.2-138.24-307.2-307.2v-102.4h51.2v102.4c0 143.36 112.64 256 256 256s256-112.64 256-256v-102.4h51.2zM819.2 440.32c30.72 0 51.2-20.48 51.2-51.2v-409.6c0-30.72-20.48-51.2-51.2-51.2h-614.4c-30.72 0-51.2 20.48-51.2 51.2v409.6c0 30.72 20.48 51.2 51.2 51.2h614.4M819.2 491.52h-614.4c-56.32 0-102.4-46.080-102.4-102.4v-409.6c0-56.32 46.080-102.4 102.4-102.4h614.4c56.32 0 102.4 46.080 102.4 102.4v409.6c0 56.32-46.080 102.4-102.4 102.4zM512 225.28v0M512 276.48c-30.72 0-51.2-20.48-51.2-51.2v-102.4c0-30.72 20.48-51.2 51.2-51.2s51.2 20.48 51.2 51.2v102.4c0 30.72-20.48 51.2-51.2 51.2z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
